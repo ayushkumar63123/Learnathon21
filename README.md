@@ -1,6 +1,6 @@
-# Learnathon21
-This repository contains code for learnathon21 hackathon happening on devpost. I am participating in the hackathon and this is my code to be submitted on the devpost webstie. Any copyright violations will not be tolerated and the illegal copying of any of my code files will be handled in a legal manner and strict actions will be taken like police cases.
-# About Me
-I am a student studying and living in New Delhi, India. I have passion for programming and I am currently targeting for entrance examinations as well as board examinations. In my free time, I like to code and learn to code. I develop softwares usually for hackathons. I like to code as a passtime activity.
-# About the project.
-This project is an e-commerce application designed to provide customers with the ability to choose among best products from best sites. It also allows them to use regular discount coupons from various coupon sites. It helps users to keep records of their shopping acitvity and maintain their budget money and spend it in a secure and efficient manner. It promotes safe shopping sites like amazon, ebay, flipkart, walmart etc.
+# Vitelabs-Open-Task
+This repository contains code files for the vitelabs Open Task Hackathon. This is not to be copied by any unauthorized person or organization. Any copyright violation won't be tolerated.
+# Important Points to Note
+1. Please download the flipkart_df file from the provided link (in the .txt file) and place it with the main.py file.
+2. Also copy and paste the chromedriver.exe file with the main.py file.
+3. Please follow the aboce mentioned steps for the proper functionality of the program.
